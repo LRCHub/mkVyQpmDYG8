@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "PAINT",
+  "base_artist": "I Don't Like Mondays.",
+  "createdAt": "2025-12-05T03:25:09.475449Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Paint Me a Birmingham",
+      "artist": "Tracy Lawrence",
+      "has_synced": true,
+      "path": "select/01_Paint_Me_a_Birmingham_Tracy_Lawrence.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Paint Me A Birmingham (Album Version)",
+      "artist": "Tracy Lawrence",
+      "has_synced": true,
+      "path": "select/02_Paint_Me_A_Birmingham_(Album_Version)_Tracy_Lawrence.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Paint Me a Birmingham",
+      "artist": "Tracy Lawrence",
+      "has_synced": true,
+      "path": "select/03_Paint_Me_a_Birmingham_Tracy_Lawrence.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Paint Me a Birmingham (2007 Remaster)",
+      "artist": "Tracy Lawrence",
+      "has_synced": true,
+      "path": "select/04_Paint_Me_a_Birmingham_(2007_Remaster)_Tracy_Lawrence.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "甘いワナ ~Paint It, Black",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/05_甘いワナ_~Paint_It,_Black_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "甘いワナ~Paint It, Black",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/06_甘いワナ~Paint_It,_Black_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Paint Your House",
+      "artist": "The Zephyrs",
+      "has_synced": false,
+      "path": "select/07_Paint_Your_House_The_Zephyrs.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Rubbin off the Paint",
+      "artist": "YBN Nahmir",
+      "has_synced": false,
+      "path": "select/08_Rubbin_off_the_Paint_YBN_Nahmir.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Rubbin Off The Paint",
+      "artist": "YBN Nahmir",
+      "has_synced": true,
+      "path": "select/09_Rubbin_Off_The_Paint_YBN_Nahmir.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Paint the Sky with Stars",
+      "artist": "Enya",
+      "has_synced": true,
+      "path": "select/10_Paint_the_Sky_with_Stars_Enya.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Paint the Sky with Stars",
+      "artist": "Enya",
+      "has_synced": false,
+      "path": "select/11_Paint_the_Sky_with_Stars_Enya.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Paint the Sky With Stars",
+      "artist": "Neora",
+      "has_synced": false,
+      "path": "select/12_Paint_the_Sky_With_Stars_Neora.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Paint Me Down (12'' Version)",
+      "artist": "Spandau Ballet",
+      "has_synced": false,
+      "path": "select/13_Paint_Me_Down_(12''_Version)_Spandau_Ballet.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Paint Me Down (12\" Version; 2010 Remaster)",
+      "artist": "Spandau Ballet",
+      "has_synced": false,
+      "path": "select/14_Paint_Me_Down_(12__Version;_2010_Remaster)_Spandau_Ballet.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Paint Me Down (Live)",
+      "artist": "Spandau Ballet",
+      "has_synced": false,
+      "path": "select/15_Paint_Me_Down_(Live)_Spandau_Ballet.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Paint Me Down (Live @ Sadlers Wells 1\u00005\u000083)",
+      "artist": "Spandau Ballet",
+      "has_synced": false,
+      "path": "select/16_Paint_Me_Down_(Live_@_Sadlers_Wells_1\u00005\u000083)_Spandau_Ballet.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "PAINT",
+      "artist": "I Don't Like Mondays.",
+      "has_synced": false,
+      "path": "select/pl_01_PAINT_I_Don't_Like_Mondays..txt"
+    }
+  ]
+}
